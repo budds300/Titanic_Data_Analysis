@@ -4,16 +4,27 @@
 
 This project aims to perform an analysis of the Titanic dataset using Jupyter Notebook. The Titanic dataset contains various information about passengers on the Titanic, such as their age, gender, ticket class, fare, survival status, etc. The analysis will involve exploring the dataset, cleaning the data, performing feature engineering, and building a linear regression model to predict ticket fares.
 
+
+
+
 ## Setup Instructions
 
 To set up this project on your local machine, follow these steps:
 
-1. **Clone the Repository**: Clone this repository to your local machine using the following command:
+1. **Clone the Repository**: Clone this repository to your local machine using the following command: 
+```bash
+git clone https://github.com/budds300/Titanic_Data_Analysis
+```
 
 2. **Install Dependencies**: Make sure you have Python installed on your machine. Additionally, install the required dependencies by running:
+```bash
+pip install -r requirements.txt
+```
 
 3. **Start Jupyter Notebook**: Launch Jupyter Notebook by running the following command in the terminal:
-
+```bash
+jupyter notebook
+```
 4. **Open the Notebook**: Once Jupyter Notebook starts, navigate to the project directory and open the `Titanic_Data_Analysis.ipynb` notebook.
 
 5. **Execute the Notebook**: Execute each cell in the notebook sequentially to perform the analysis.
@@ -34,6 +45,9 @@ The analysis is divided into several sections:
 
 6. **Conclusion**: Summarize the findings and insights obtained from the analysis.
 
+
+
+
 ## Conclusion
 
 In conclusion, this project provides a comprehensive analysis of the Titanic dataset using Jupyter Notebook. By following the setup instructions and executing the notebook, users can explore the dataset, perform data analysis, and build predictive models.
@@ -42,7 +56,7 @@ In conclusion, this project provides a comprehensive analysis of the Titanic dat
 
 Here are a few sample graphs generated during the analysis:
 
-1. ![Graph 1](path/to/image1.png)
-2. ![Graph 2](path/to/image2.png)
-3. ![Graph 3](path/to/image3.png)
-4. ![Graph 4](path/to/image.png)
+1. ![Graph 3](image3.png) ![Graph 4](image.png)
+
+2. ![Graph 1](image1.png) ![Graph 2](image2.png)
+
